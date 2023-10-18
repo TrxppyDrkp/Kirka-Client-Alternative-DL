@@ -6,3 +6,5 @@ I am not pirating Kirka Client in any way; this will remain free and always free
 # My discord is "trxppydrkp" please dm me if you're having issues or it isn't working.
 THIS WAS ONLY TESTED ON THE WINDOWS 10 DEVICE, I WILL ADD DIFFERENT FILES FOR OTHER DEVICES SHORTLY.
 <strong>Please Star My Repo If It Has Helped!</strong>
+# Links
+<button> <a>https://discord.gg/YVn9q2C4xb</a> </button>
