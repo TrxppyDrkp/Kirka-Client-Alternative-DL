@@ -9,3 +9,4 @@ THIS WAS ONLY TESTED ON THE WINDOWS 10 DEVICE, I WILL ADD DIFFERENT FILES FOR OT
 # Links
 <button> <a>https://discord.gg/YVn9q2C4xb</a> </button>
 <br> <h3>Discord Server ^</h3> </br>
+<button> <a>https://www.youtube.com/channel/UCFDIbF7K1Hy8Kud6s_JDHLQ</a> </button>
